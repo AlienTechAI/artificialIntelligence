@@ -1,2 +1,3 @@
-# artificialIntelligence
-Just like the title, this is a repo, wherte i build an AI
+# Artificial Intelligence
+
+In order to understand the program related to this, first read through 
